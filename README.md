@@ -1,0 +1,1 @@
+This project was created to teach children hot to use git.
